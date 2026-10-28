@@ -39,7 +39,7 @@
 <td width="30%" align="center">
 
 <!-- Add your character GIF here -->
-<img src="YOUR_CHARACTER_GIF_URL" width="220" />
+<img src="https://giphy.com/gifs/Svoltastudenti-polimi-politecnicodimilano-politecnico-di-milano-LxAwk0rwFH4wcJSM9T" width="220" />
 
 </td>
 </tr>
