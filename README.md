@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=36B37E&width=500&lines=Software+Developer;IT+Programming+Student;Building+Things+With+Code;Learning+Something+New+Every+Day" alt="Typing SVG" />
+<img src="https://www.pinterest.com/pin/duck-pixel--99853316731737477/" alt="Typing SVG" />
 
 `I build bots`, `develop software`, and `enjoy solving problems`.
 
