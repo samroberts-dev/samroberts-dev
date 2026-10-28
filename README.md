@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**samroberts-dev/samroberts-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sam
 
-Here are some ideas to get you started:
+`I build bots`, `develop software`, `and enjoy solving problems`.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### `// currently`
+
+- 🎓 Studying Information Technology (Programming)
+- 💻 Working with C#, Python, HTML, CSS, JS, MySQL
+- 🚀 Building assessment tasks
+---
+
+### `// tech stack`
+
+![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/Python-181717?style=flat-square&logo=python)
+![Node.js](https://img.shields.io/badge/Node.js-181717?style=flat-square&logo=nodedotjs)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-181717?style=flat-square&logo=postgresql)
+![Git](https://img.shields.io/badge/Git-181717?style=flat-square&logo=git)
+
+---
+
+### `// projects`
+
+---
+
+### `// stats`
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
+
+---
+
+### `// web`
+
+📍 Perth, Australia
