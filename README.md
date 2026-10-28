@@ -1,8 +1,8 @@
 
 <h1>Samuel Roberts</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=0d1117&labelColor=0d1117&logo=github&logoColor=36b37e)
+![Profile Views](https://komarev.com/ghpvc/?username=samroberts-dev&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/sameroberts-dev?style=for-the-badge&color=0d1117&labelColor=0d1117&logo=github&logoColor=36b37e)
 
 <br>
 
@@ -51,9 +51,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/pacman-output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/pacman-output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/pacman-output/pacman-contribution-graph.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samroberts-dev/samroberts-dev/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samroberts-dev/samroberts-dev/pacman-output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/samroberts-dev/samroberts-dev/pacman-output/pacman-contribution-graph.svg" width="100%">
   </picture>
 </p>
 
@@ -64,10 +64,10 @@
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&bg_color=0d1117&title_color=36b37e&icon_color=36b37e&text_color=ffffff&border_color=36b37e" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=samroberts-dev&show_icons=true&bg_color=0d1117&title_color=36b37e&icon_color=36b37e&text_color=ffffff&border_color=36b37e" width="100%" />
 </td>
 <td align="center" width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&background=0D1117&border=36B37E&stroke=36B37E&ring=36B37E&fire=36B37E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=samroberts-dev&background=0D1117&border=36B37E&stroke=36B37E&ring=36B37E&fire=36B37E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888" width="100%" />
 </td>
 </tr>
 </table>
@@ -76,6 +76,6 @@
 
 ### `// connect`
 
-[![GitHub](https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=36b37e)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=36b37e)](https://github.com/samroberts-dev)
 
 <sub>Always learning. Always building.</sub>
