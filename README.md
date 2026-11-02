@@ -55,45 +55,6 @@ I enjoy turning ideas into working projects and learning something along the way
 
 ---
 
-### `// featured project`
-
-#### ↗ GitHub Wrapped
-
-**Your code. Your journey. Your year.**
-
-An open-source project that turns public GitHub activity into a personalised card you can embed in your README.
-
-- 📊 Yearly and available-history contribution reports
-- 🎨 Multiple card themes
-- 🏅 A documented activity grade
-- 🔗 SVG cards and a JSON API
-- 🔄 Interactive profile flip on the website
-
-<p>
-  <a href="https://git-hub-wrapped-phi.vercel.app/">
-    <img src="https://img.shields.io/badge/Try_GitHub_Wrapped-9ee493?style=for-the-badge&logo=vercel&logoColor=172731" alt="Try GitHub Wrapped" />
-  </a>
-  <a href="https://github.com/samroberts-dev/GitHub-Wrapped">
-    <img src="https://img.shields.io/badge/View_Source-2f4858?style=for-the-badge&logo=github&logoColor=daf7dc" alt="View source code" />
-  </a>
-</p>
-
----
-
-### `// my year in code`
-
-<p align="center">
-  <a href="https://git-hub-wrapped-phi.vercel.app/">
-    <img src="https://git-hub-wrapped-phi.vercel.app/api/card?username=samroberts-dev&year=2026&theme=default" alt="Samuel Roberts — GitHub Wrapped 2026" width="800" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>My public GitHub activity so far in 2026 · Powered by a project I built.</sub>
-</p>
-
----
-
 ### `// contribution streak`
 
 <p align="center">
