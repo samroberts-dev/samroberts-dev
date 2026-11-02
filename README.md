@@ -55,6 +55,18 @@ I enjoy turning ideas into working projects and learning something along the way
 
 ---
 
+### `// activity`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samroberts-dev/samroberts-dev/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samroberts-dev/samroberts-dev/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man eating my GitHub contributions" src="https://raw.githubusercontent.com/samroberts-dev/samroberts-dev/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+</p>
+
+---
+
 ### `// my year in code`
 
 <p align="center">
