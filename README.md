@@ -55,6 +55,20 @@ I enjoy turning ideas into working projects and learning something along the way
 
 ---
 
+### `// my year in code`
+
+<p align="center">
+  <a href="https://git-hub-wrapped-phi.vercel.app/">
+    <img src="https://git-hub-wrapped-phi.vercel.app/api/card?username=samroberts-dev&year=2026&theme=default" alt="Samuel Roberts — GitHub Wrapped 2026" width="800" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>My public GitHub activity so far in 2026 · Powered by a project I built.</sub>
+</p>
+
+---
+
 ### `// contribution streak`
 
 <p align="center">
